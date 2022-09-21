@@ -2,7 +2,7 @@ import React from 'react'
 import styles from "../Burgertop.module.css";
 export const BurgerContent = () => {
   let burger = [];
-  burger.push(100000000000000000000000000000000n);
+  burger.push(1000);
   return (
     <div>
       <div className={styles.Burger__Burger__2h2kL}>
